@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/485
     wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28897#The-Variation-of-Animals-and-Plants-Under-Domestication-Volume-II--of-2-
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2009-05-20'
 gutenberg_type: Text
